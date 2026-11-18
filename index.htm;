@@ -25,8 +25,9 @@
 <body>
 
 <header>
-    <!-- Ganti "foto-miko.jpg" dengan nama file foto yang Anda upload ke repository -->
-    <img src="foto-miko.jpg" alt="Foto Miko Marlino">
+    <!-- Perhatikan penulisan nama file harus persis: ANJING.jpeg -->
+    <img src="ANJING.jpeg" alt="Foto Profil Miko Marlino" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #fff; margin-bottom: 1rem;">
+    
     <h1>Miko Marlino</h1>
     <p>NIM: 256202007 | Kelas: TK 3C</p>
     <p>Prodi D3 Teknik Komputer — Politeknik Negeri Samarinda</p>
